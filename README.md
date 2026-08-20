@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## I'm Allix, a computer science university student currently studying in the north of England.
+# I'm Allix, a computer science university student currently studying in the north of England.
 
-## I have a particular interest in the rising field of Artificial Intelligence, specifically classic machine learning, deep learning and the mathematical concepts behind them.
+# I have a particular interest in the rising field of Artificial Intelligence, specifically classic machine learning, deep learning and the mathematical concepts behind them.
 
 <!--
 **allix-mcgrath/allix-mcgrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
